@@ -1,0 +1,1 @@
+"0","#PCA plots are used to plot the variance by samples in each principal component. Typically PC1 & PC2 explain the most variation in the dataset.In the plot below we can see that samples from the tumour and control groups are widely spread across the graph and that the variance in tumour samples in PCA1 is 44.11% and the control samples have a variance of 28.78%."

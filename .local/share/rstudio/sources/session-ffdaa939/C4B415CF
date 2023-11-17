@@ -1,0 +1,28 @@
+{
+    "id": "C4B415CF",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1699034985865.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "4b62f8068047407480204f1e4c583810",
+        "name": "tumour_v_ctrl",
+        "title": "tumour_v_ctrl",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2019028228782402736,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1699034985865,
+    "read_only": false,
+    "read_only_alternatives": []
+}
